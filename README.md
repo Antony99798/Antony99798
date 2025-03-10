@@ -8,7 +8,7 @@ Sono un appassionato fullstack developer dall'Italia
 
 
 Languages and Tools:
-💻   Python | Dart | Java | C++
+
 🌐   Android | React| HTML | CSS | JavaScript | Bootstrap
 🛢   MySQL |PHP | Xampp
 🔧   Visual Studio code| Git
